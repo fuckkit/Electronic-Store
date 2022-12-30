@@ -1,0 +1,18 @@
+a{
+    font-size: 20px;
+    text-align: center;
+}
+.exit{
+    font-size: 20px;
+    text-decoration: none;
+    text-align: right;
+    color: #75D7FA;
+
+}
+
+.imgexit{
+    width: 20px;
+    text-decoration: none;
+    text-align: right;
+
+}

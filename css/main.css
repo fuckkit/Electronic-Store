@@ -1,0 +1,96 @@
+body{
+    background-image: url(../image/background.jpg);
+}
+ul{
+    line-height: 50px;
+    background-color: #000;
+    text-align: center;
+
+}
+li{
+    display: inline-block;
+}
+a{
+    font-size: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    color: #ccc;
+    text-decoration: none;
+}
+li:hover {
+    background-color: #71168d;
+}
+.welcome{
+    font-family: 'Barlow', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 70px;
+    color: white;
+    text-shadow:
+            2px 2px 2px #000000,
+            0 2px 2px #000000,
+            -2px 0 2px #000000,
+            0 -2px 2px #000000;
+    padding: 30px;
+    border-radius:6px;
+    margin: 300px auto 0;
+
+}
+.wlr{
+    font-family: 'Barlow', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    text-shadow:
+            2px 2px 2px #000000,
+            0 2px 2px #000000,
+            -2px 0 2px #000000,
+            0 -2px 2px #000000;
+    padding: 1px;
+    border-radius:6px;
+    margin: auto 0;
+    letter-spacing: normal;
+}
+.login{
+    font-family: 'Barlow', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    text-shadow:
+            2px 2px 2px #000000,
+            0 2px 2px #000000,
+            -2px 0 2px #000000,
+            0 -2px 2px #000000;
+    padding: 1px;
+    border-radius:6px;
+    margin: 15px;
+    letter-spacing: normal;
+}
+.register{
+    font-family: 'Barlow', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    text-shadow:
+            2px 2px 2px #000000,
+            0 2px 2px #000000,
+            -2px 0 2px #000000,
+            0 -2px 2px #000000;
+    padding: 1px;
+    border-radius:6px;
+    margin: 15px;
+    letter-spacing: normal;
+}
+.register:hover {
+    color: #75D7FA;
+}
+.login:hover {
+    color: #75D7FA;
+}
